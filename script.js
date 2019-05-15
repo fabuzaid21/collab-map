@@ -1,5 +1,16 @@
 "use strict";
 
+// TODO:
+// 1) Add Search bar, so user can type in query
+// 2) Add list interface:
+//    * create list
+//    * share list
+//    * delete list
+//    * list members
+// 3) Click on place and add to list
+// 4) Share list logic
+// 5) Google Account support
+// 6) Lists should be stored on backend service
 
 var map;
 var service;
