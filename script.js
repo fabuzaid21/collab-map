@@ -11,6 +11,7 @@
 // 4) Share list logic
 // 5) Google Account support
 // 6) Lists should be stored on backend service
+// 7) Add autocomplete for search
 
 var map;
 var service;
